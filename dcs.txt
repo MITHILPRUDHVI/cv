@@ -1,0 +1,85 @@
+.total_container {
+background: conic-gradient(from 180deg at 50% 70%, #25325c, #2d466b, #355d7a, #3e7688, #479197, #51a69e, #5bb59e, #66c49b, #71d398, #7de194, #89f08f, #a2ff96);}
+
+
+.help_box {
+  height: 50px;
+  width: 50px;
+  background: #;
+  position: static;
+  right: 500px;
+}
+
+.number_one_colour {
+  background-color: orange;
+  padding-top: 140px;
+  padding-bottom: 100px;
+}
+
+.number_two_colour {
+  background-color: pink;
+  padding-top: 149.5px;
+  padding-bottom: 149.5px;
+}
+
+.number_three_colour {
+  background-color: green;
+  padding-top: 149.5px;
+  padding-bottom: 120px;
+}
+
+h1 {
+  color: blue;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  color: blue;
+}
+
+.image_needle {
+  position: absolute;
+margin: 176px;;
+
+}
+
+.sewingmachine_image {
+  position: absolute;
+  right: 10px ;
+  top: 0px;
+}
+
+.scissors_image {
+  position: absolute;
+  right:10px ;
+  bottom: 10px;
+  transform: rotate(90deg);
+}
+
+
+.animation_thread {
+  position: absolute;
+height : 100px;
+width : 100px;
+bottom: 20px;
+left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------
+
+                                background-gradient😍
+
+background-image: radial-gradient(circle, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+
+
+---------------------------------------------------------------------------------------------
